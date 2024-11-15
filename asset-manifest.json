@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GeminiAI/static/css/main.d48042e6.css",
+    "main.js": "/GeminiAI/static/js/main.ebc3d25a.js",
+    "static/js/453.419a5d54.chunk.js": "/GeminiAI/static/js/453.419a5d54.chunk.js",
+    "static/media/Outfit-Regular.ttf": "/GeminiAI/static/media/Outfit-Regular.e853df41b41bc9489a8b.ttf",
+    "static/media/user_icon.png": "/GeminiAI/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/GeminiAI/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/GeminiAI/index.html",
+    "main.d48042e6.css.map": "/GeminiAI/static/css/main.d48042e6.css.map",
+    "main.ebc3d25a.js.map": "/GeminiAI/static/js/main.ebc3d25a.js.map",
+    "453.419a5d54.chunk.js.map": "/GeminiAI/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48042e6.css",
+    "static/js/main.ebc3d25a.js"
+  ]
+}
